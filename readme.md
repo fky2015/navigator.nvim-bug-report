@@ -4,7 +4,7 @@ It seems that the preview-window didn't show up.
 
 ![image.png](https://s2.loli.net/2022/01/09/K3w4ZeqAzgvh1XM.png)
 
-(Just ignore the pink background color)
+(Just ignore the pink background color) (Purple border below the floating window is from my screenshot software)
 
 ### How to reproduce?
 
